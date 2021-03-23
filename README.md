@@ -1,5 +1,9 @@
 # angular-java-example
 
+#Install Angular
+npm install -g @angular/cli
+#To install Maven 
+sudo apt install maven
 # Download or clone the project
 Download the zip code/clone the code
 
